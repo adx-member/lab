@@ -5,8 +5,8 @@ jupyterlab~=3.5.1
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.0.6
 
-# JavaScript kernel (optional)
-jupyterlite-javascript-kernel==0.1.0b21
+## JavaScript kernel (optional)
+#jupyterlite-javascript-kernel==0.1.0b21
 
 # Language support (optional)
 #jupyterlab-language-pack-fr-FR
