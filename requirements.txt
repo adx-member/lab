@@ -13,6 +13,9 @@ jupyterlite-pyodide-kernel==0.0.6
 #jupyterlab-language-pack-zh-CN
 jupyterlab-language-pack-ko-KR
 
+jupyterlab-visualpython
+visualpython
+
 ## SQLite kernel (optional)
 #jupyterlite-xeus-sqlite==0.2.1
 ## P5 kernel (optional)
